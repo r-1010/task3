@@ -1,4 +1,4 @@
-# task3
+# Task 3
 A Replica of a prototype website
 
 # CSS PROPERTIES USED:
@@ -39,7 +39,7 @@ Background-color : sets the color of background.
   
 Width and Height sets the Width and Height of element.  
 
-Except these, other properties of CSS have also been implemented
+Except these, other properties of CSS have also been implemented.
 
 ![Screenshot (821)](https://user-images.githubusercontent.com/86161015/132137206-06ab68f2-89e4-412b-81a7-e8583b43b7d1.png)
 
